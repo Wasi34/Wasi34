@@ -1,6 +1,6 @@
 ### About Me
 
-👋 Hi, I am Ahmed Al Wasi.
+👋 Hello, I am Ahmed Al Wasi.
 
 I have completed my graduation with a Bachelor of Science degree in Computer Science and Engineering (CSE) from Ahsanullah University of Science and Technology (AUST). 
 <br>
