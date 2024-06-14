@@ -13,5 +13,5 @@ You can reach me at: <br>
 **Web Development:** HTML, CSS, JavaScript <br>
 **Databases:** MySQL, MSSQL, Firebase <br>
 **Deep Learning Tools:** TensorFlow, PyTorch <br>
-**Tools and Technologies:** Microsoft Tools, Google Workspace, Proteus, Git, LaTeX <br>
+**Other Tools and Technologies:** Microsoft Tools, Google Workspace, Proteus, Git, LaTeX <br>
 
