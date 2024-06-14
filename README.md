@@ -9,32 +9,9 @@ You can reach me at: <br>
 **Email**: ahmed.alwasi34@gmail.com
 
 ### Skills
+Programming Languages: C, C++, C#, Python, Java, ASP.NET
+Web Development: HTML, CSS, JavaScript
+Tools and Technologies: Microsoft Tools, Proteus, Git, LaTeX
+Databases: MySQL, MSSQL, Firebase
+Deep Learning Tools: TensorFlow, PyTorch
 
-#### Programming Languages
-- C
-- C++
-- C#
-- Python
-- Java
-- ASP.NET
-
-#### Web Development
-- HTML
-- CSS
-- JavaScript
-
-#### Tools and Technologies
-- Microsoft Tools
-- Google Workspace
-- Proteus
-- Git
-- LaTeX
-
-#### Databases
-- MySQL
-- MSSQL
-- Firebase
-
-#### Deep Learning Tools
-- TensorFlow
-- PyTorch
